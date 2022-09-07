@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on Feature branch
+          Learn React js fOR FUN
         </a>
       </header>
     </div>
